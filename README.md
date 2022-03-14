@@ -16,3 +16,5 @@ Utilização de Heuristicas<p>
   
   fonte: https://www.nngroup.com/articles/ten-usability-heuristics/
 <p><p align="center">PROJETO CLASSES
+<img align="center" alt="Victor" height="100%" width="100%" src="https://github.com/victornaca/BERTOTI/blob/main/TELAS%20EXERCICIO1/DIAGRAMA2.jpg">
+  
