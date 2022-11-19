@@ -1,0 +1,167 @@
+body {
+	background: #EFEFBB;
+	background-color: white;
+	color: white;
+	margin: 0;
+	font-family: rubik;
+}
+
+.container {
+	padding: 40px;
+	margin: 0 auto;
+}
+
+h1 {
+	text-align: center;
+	font-size: 54px;
+}
+
+.pokedex {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+	grid-gap: 20px;
+	padding-inline-start: 0;
+}
+
+.card {
+	list-style: none;
+	padding: 40px;
+	color: #222;
+	text-align: center;
+	border: 15px solid white;
+	border-radius: 5px 0px 40px 0px;
+	position: relative;
+}
+
+.card::after {
+	content: "";
+  display: block;
+  width: 50%;
+  height: 45%;
+  border-radius: 100%;
+  background-color: #fff;
+  opacity: .7;
+  position: absolute;
+  top: 15%;
+  left: 25%;
+}
+
+.steel, .ghost {
+	background-color: #372549;
+	border: 15px solid #21162c;
+
+}
+
+.fire {
+	background-color: #c32f27;
+	border: 15px solid #9a2620;
+}
+
+.grass {
+	background-color: #2b9348;
+	border: 15px solid #24783c;
+}
+
+.electric {
+	background-color: #ffd100;
+	border: 15px solid #d1ac04;
+}
+
+.water, .ice {
+	background-color: #274c77;
+	border: 15px solid #1f3c5e;
+}
+
+.ground {
+	background-color: #562c2c;
+	border: 15px solid #3c1f1f;
+}
+
+.rock {
+	background-color: #2d3142;
+	border: 15px solid #1f222e;
+}
+
+.fairy {
+	background-color: #f05d5e;
+	border: 15px solid #bc4a4a;
+}
+
+.poison {
+	background-color: #aacc00;
+	border: 15px solid #8aa501;
+}
+
+.bug {
+	background-color: #f7b538;
+	border: 15px solid #c6912f;
+}
+
+.dragon {
+	background-color: #022b3a;
+	border: 15px solid #011f2a;
+}
+
+.psychic {
+	background-color: #ff6b35;
+	border: 15px solid #d1582b;
+}
+
+.flying {
+	background-color: #bfc0c0;
+	border: 15px solid #8d8d8d;
+}
+
+.fighting {
+	background-color: #220901;
+	border: 15px solid #110501;
+}
+
+.normal {
+	background-color: #46494c;
+	border: 15px solid #2e3032;
+}
+
+.card:hover {
+	animation: bounce 0.5s linear;
+}
+
+.card-title {
+	text-transform: capitalize;
+	margin-bottom: 0px;
+	font-size: 32px;
+	font-weight: normal;
+	position: relative;
+	z-index: 2;
+	color: white;
+}
+
+.card-subtitle {
+	margin-top: 5px;
+	color: white;
+	font-weight: lighter;
+	position: relative;
+	z-index: 2;
+}
+
+.card-image {
+	height: 180px;
+	position: relative;
+	z-index: 2;
+}
+
+@keyframes bounce {
+	20% {
+			transform: translateY(-6px);
+	}
+	40% {
+			transform: translateY(0px);
+	}
+
+	80% {
+			transform: translateY(-2px);
+	}
+	100% {
+			transform: translateY(0);
+	}
+}
