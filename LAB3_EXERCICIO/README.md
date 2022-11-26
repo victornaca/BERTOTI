@@ -7,11 +7,11 @@
  <a href=""><img src="https://img.shields.io/badge/RA%3A-1460282123017-blue"/></a>
  <a href=""><img src="https://img.shields.io/badge/Semestre%3A-3ºBD-orange"/></a>
 </p>
-#Proposto
+## Proposto
 Consumir uma API utilizando JavaScript, com uma tela em HTML como linguagem de marcação e CSS para estilização da atividade.
 
-#Atividade
-Utilizei a API aberta do PokeAPI onde a consumi pelo JavaScript construindo blocos de HTML pelo Ajax deixando com um aspecto de uma lista de pokemons. Também utilizei o CSS e JS para estilizar cada card de acordo com o seu elemento.
+## Atividade
+Utilizei a API aberta do * [PokeAPI]https://pokeapi.co/) onde fiz o consumo via JavaScript construindo blocos de HTML pelo Ajax deixando com um aspecto de uma lista de pokemons. Também utilizei o CSS e JS para estilizar cada card de acordo com o seu elemento.
 
   <img align="center" alt="Victor" height="100%" width="100%" src="https://github.com/victornaca/BERTOTI/blob/main/LAB3_EXERCICIO/pokedex/PRINTPROGRAMA.jpeg">
   <div style="display: inline_block"><br>
