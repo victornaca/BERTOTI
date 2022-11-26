@@ -12,7 +12,7 @@
 Consumir uma API utilizando JavaScript, com uma tela em HTML como linguagem de marcação e CSS para estilização da atividade.
 
 ## Atividade
-Utilizei a API aberta do * [PokeAPI]https://pokeapi.co/) onde fiz o consumo via JavaScript construindo blocos de HTML pelo Ajax deixando com um aspecto de uma lista de pokemons. Também utilizei o CSS e JS para estilizar cada card de acordo com o seu elemento.
+Utilizei a API aberta do [PokeAPI](https://pokeapi.co/) onde fiz o consumo via JavaScript construindo blocos de HTML pelo Ajax deixando com um aspecto de uma lista de pokemons. Também utilizei o CSS e JS para estilizar cada card de acordo com o seu elemento.
 Verifique a prévia do projeto na imagem abaixo:
 <p>
 
