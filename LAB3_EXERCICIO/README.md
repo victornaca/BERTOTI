@@ -13,8 +13,9 @@ Consumir uma API utilizando JavaScript, com uma tela em HTML como linguagem de m
 
 ## Atividade
 Utilizei a API aberta do [PokeAPI](https://pokeapi.co/) onde fiz o consumo via JavaScript construindo blocos de HTML pelo Ajax deixando com um aspecto de uma lista de pokemons. Também utilizei o CSS e JS para estilizar cada card de acordo com o seu elemento.
+<br>
 Verifique a prévia do projeto na imagem abaixo:
-<p>
+<br>
 
  <img align="center" alt="Victor" height="100%" width="100%" src="https://github.com/victornaca/BERTOTI/blob/main/LAB3_EXERCICIO/pokedex/PRINTPROGRAMA.jpeg">
   <div style="display: inline_block"><br>
