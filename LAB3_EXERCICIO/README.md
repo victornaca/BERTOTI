@@ -1,6 +1,6 @@
-  
+  <img align="center" alt="Victor" height="100%" width="40%" src="https://github.com/victornaca/BERTOTI/blob/main/LAB3_EXERCICIO/pokedex/Pokemon-Logo.png">
+<div style="display: inline_block"><br>
  <p align="center">
-<img align="center" alt="Victor" height="100%" width="40%" src="https://github.com/victornaca/BERTOTI/blob/main/LAB3_EXERCICIO/pokedex/Pokemon-Logo.png">s
  <a href=""><img src="https://img.shields.io/badge/API%3A-PokeAPI-red"/></a>
  <a href=""><img src="https://img.shields.io/badge/Nome%3A-Victor Fernandes-yellow"/></a>
  <a href=""><img src="https://img.shields.io/badge/RA%3A-1460282123017-blue"/></a>
